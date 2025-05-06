@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Devloping Flutter Solutions.
-- 🎓 &nbsp; B.Tech in Information Technology - Charusat University of Sciences & Engineering.
-- 💭 &nbsp; Focused on diving deeper into Androiad App devlopment.
+- 🤔 &nbsp; Developing Flutter solutions and building mobile-first experiences.
+- 🎓 &nbsp; B.Tech in Information Technology - Charusat University of Science & Technology.
+- 💭 &nbsp; Focused on diving deeper into Android app development and real-world IoT applications.
 - 🎧 &nbsp; Enjoys bike riding, listening to music, and DJing as hobbies.
-- 🤝 &nbsp; Open to collaboration and enthusiastic about contributing to security projects and initiatives.
+- 🤝 &nbsp; Open to collaboration and enthusiastic about contributing to security projects and tech communities.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -31,10 +31,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-  <a href="">
+  <a href="https://manavprajapati.dev">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/kavyvachhani/">
+  <a href="https://www.linkedin.com/in/manavprajapati/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:prajaptimanav1708@gmail.com">
@@ -42,6 +42,6 @@
   </a>
 </p>
 
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align="left"/>
+<a href="https://github.com/manavprajapati#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Footer" width="100%" align="left"/>
 </a>
