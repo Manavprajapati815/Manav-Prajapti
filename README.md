@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Application developer
 ---------------------
 
-🤔 Developing Flutter solutions and building mobile-first experiences. 🎓 B.Tech in Information Technology - Charusat University of Science & Technology. 💭 Focused on diving deeper into Android app development and real-world IoT applications. 🎧 Enjoys bike riding, listening to music, and DJing as hobbies. 🤝 Open to collaboration and enthusiastic about contributing to security projects and tech communities.
+🤔 Developing Flutter solutions and building mobile-first experiences. 
+🎓 B.Tech in Information Technology - Charusat University of Science & Technology. 
+💭 Focused on diving deeper into Android app development and real-world IoT applications. 
+🎧 Enjoys bike riding, listening to music, and DJing as hobbies. 
+🤝 Open to collaboration and enthusiastic about contributing to security projects and tech communities.
 
 * 🌍  I'm based in Vishnagar, Gujarat, India
 * ✉️  You can contact me at [prajapatimanav1708@gmail.com](mailto:prajapatimanav1708@gmail.com)
